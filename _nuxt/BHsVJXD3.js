@@ -1,0 +1,1 @@
+import{St as e,pt as t,sn as n,u as r,zn as i}from"./BiMXuDG3.js";var a=e({__name:`index`,async setup(e){let a,o;return[a,o]=i(()=>r(`/overview`,{replace:!0})),await a,o(),(e,r)=>(n(),t(`span`))}});export{a as default};
