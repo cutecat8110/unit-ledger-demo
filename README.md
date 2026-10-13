@@ -15,7 +15,7 @@
 | [費率試算](https://cutecat8110.github.io/unit-ledger-demo/#/calculator) | 階梯費率、基本費、稅額與出帳快照 |
 | [帳單查詢](https://cutecat8110.github.io/unit-ledger-demo/#/bills) | 明細核對、確認／撤回與 CSV 匯出 |
 
-**試用順序：**補登 2026 年 9 月讀數 → 試算 → 建立帳單 → 核對明細。
+**試用順序：** 補登 2026 年 9 月讀數 → 試算 → 建立帳單 → 核對明細。
 
 帳務管理可編修表計及出帳；抄表作業可登錄讀數、試算與查看帳單。
 
