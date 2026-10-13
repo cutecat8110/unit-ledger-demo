@@ -1,1 +1,0 @@
-import{St as e,Wr as t,mn as n,pt as r,sn as i,ut as a}from"./BiMXuDG3.js";var o=Object.assign(e({__name:`StatusBadge`,props:{tone:{}},setup(e){return(o,s)=>(i(),r(`span`,{class:t([`status-badge`,e.tone||`gray`])},[s[0]||=a(`span`,null,null,-1),n(o.$slots,`default`)],2))}}),{__name:`StatusBadge`});export{o as t};
