@@ -1,8 +1,8 @@
-# 度冊計費｜表計與帳務管理展示
+# 度冊計費｜表計與帳務管理
 
 `Nuxt 4` · `Vue 3` · `TypeScript` · `Nuxt UI` · `IndexedDB`
 
-從批次抄表、總分表核對到費率試算與出帳，追蹤每期用量及費用。
+批次抄表、總分表核對、費率試算與帳單管理。
 
 **[開啟 Demo](https://cutecat8110.github.io/unit-ledger-demo/)**
 
