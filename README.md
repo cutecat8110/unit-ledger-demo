@@ -1,4 +1,4 @@
-# 度冊計費｜表計與帳務管理
+# 計費系統
 
 `Nuxt 4` · `Vue 3` · `TypeScript` · `Nuxt UI` · `IndexedDB`
 
